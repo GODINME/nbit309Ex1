@@ -6,4 +6,5 @@
 * source ex/bin/activate
 * pip install flask
 * pip freeze > requirement.txt
+* flask run
 
